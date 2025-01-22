@@ -10,7 +10,7 @@ A toolkit for Test-Driven Development (TDD) in JavaScript. This project includes
 
 ---
 
-## 🔗 [Live Demo](#) *()*
+## 🔗 [Live Demo](#)
 <div align="center">
     <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white" />
